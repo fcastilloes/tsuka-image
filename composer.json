@@ -1,0 +1,19 @@
+{
+    "name": "tsuka/image",
+    "description": "Image manipulation for katana php SDK",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fernando Castillo",
+            "email": "contact@fcastillo.es"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"Tsuka\\Image\\": "src"}
+    },
+    "require": {
+        "php": "^7.0",
+        "ext-imagick": "*",
+        "kusanagi/katana-sdk-php7": "^1.1.10"
+    }
+}
