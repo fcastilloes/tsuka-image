@@ -14,6 +14,6 @@
     "require": {
         "php": "^7.0",
         "ext-imagick": "*",
-        "kusanagi/katana-sdk-php7": "^1.1.10"
+        "kusanagi/katana-sdk-php7": "^2.0.0"
     }
 }
